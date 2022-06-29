@@ -22,12 +22,9 @@
       "Magium\\ActiveDirectory\\Tests\\": "tests"
     }
   },
-  "require-dev": {
-    "phpunit/phpunit": "^6.0 | ^7.0",
-    "magium/magium": "~1.1"
-  },
+ 
   "require": {
-    "magium/configuration-manager": "^1.0.1",
+ 
     "league/oauth2-client": "^2.0",
     "microsoft/microsoft-graph": "^1.0",
     "zendframework/zend-psr7bridge": "^0.2"
